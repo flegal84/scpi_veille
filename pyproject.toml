@@ -1,0 +1,20 @@
+[project]
+name = "veille-agent"
+version = "0.1.0"
+description = "Agent de veille produisant des synthèses sourcées (projet fil rouge agents/skills)"
+requires-python = ">=3.12"
+dependencies = [
+    "mistralai-agents[bashkit]==1.1.0",
+    "httpx",
+    "pypdf",
+    "fonttools",
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.mistralai.agents]
+entrypoint = "main:agent"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

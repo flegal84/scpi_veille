@@ -1,0 +1,35 @@
+{
+  "cases": [
+    {
+      "id": "c1",
+      "topic": "Quelles sont les principales tendances des agents LLM en 2026 ?",
+      "min_citations": 3,
+      "require_uncertainty": true
+    },
+    {
+      "id": "c2",
+      "topic": "Veille sur l'état de l'art du RAG (retrieval-augmented generation) : quelles approches dominent ?",
+      "min_citations": 3,
+      "require_uncertainty": false
+    },
+    {
+      "id": "c3",
+      "topic": "Quels travaux récents sur arXiv portent sur l'évaluation automatique des agents LLM ?",
+      "min_citations": 2,
+      "require_uncertainty": true
+    },
+    {
+      "id": "c4",
+      "topic": "Compare les approches multi-agents (orchestration centralisée vs collaboration décentralisée).",
+      "min_citations": 4,
+      "require_uncertainty": true
+    },
+    {
+      "id": "c5",
+      "topic": "Sujet délibérément obscur pour tester le refus : 'zorblax quantique 7 protocol' — la synthèse doit signaler un manque de sources.",
+      "min_citations": 0,
+      "require_uncertainty": true,
+      "expect_insufficient": true
+    }
+  ]
+}

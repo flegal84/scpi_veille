@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <id>http://arxiv.org/abs/2601.00001v1</id>
+    <published>2026-01-05T10:00:00Z</published>
+    <title>Evaluating LLM Agents: A Survey</title>
+    <summary>We survey benchmarks and metrics for   multi-agent systems.</summary>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.12345v2</id>
+    <published>2025-12-20T08:30:00Z</published>
+    <title>Tool Use in Large Language Models</title>
+    <summary>An analysis of tool-calling reliability.</summary>
+  </entry>
+</feed>
