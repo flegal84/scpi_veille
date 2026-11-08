@@ -1,0 +1,7 @@
+mistralai-agents[bashkit]==1.1.0
+httpx
+pypdf
+fonttools
+
+[test]
+pytest

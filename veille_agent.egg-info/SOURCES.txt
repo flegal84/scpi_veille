@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+tests/test_models.py
+tests/test_models_portefeuille.py
+tests/test_models_scpi.py
+tests/test_portefeuille.py
+tests/test_scoring.py
+tests/test_tools.py
+veille_agent.egg-info/PKG-INFO
+veille_agent.egg-info/SOURCES.txt
+veille_agent.egg-info/dependency_links.txt
+veille_agent.egg-info/requires.txt
+veille_agent.egg-info/top_level.txt

@@ -1,6 +1,6 @@
 ---
 name: scpi-veille
-description: Veille périodique générique sur un portefeuille de SCPI (par défaut : Pierval Santé, Epargne Pierre, Iroko Zen, Transitions Europe, Corum Origin, Corum XL, Corum Eurion, Remake Live) — prix de la part, valeurs de réalisation/reconstitution/retrait, parts en attente de retrait, collecte, dividende/TD, TOF, actualité média 90 jours, comparaison transversale. Paramètre : la liste des SCPI à suivre.
+description: "Veille périodique générique sur un portefeuille de SCPI (par défaut : Pierval Santé, Epargne Pierre, Iroko Zen, Transitions Europe, Corum Origin, Corum XL, Corum Eurion, Remake Live) — prix de la part, valeurs de réalisation/reconstitution/retrait, parts en attente de retrait, collecte, dividende/TD, TOF, actualité média 90 jours, comparaison transversale. Paramètre : la liste des SCPI à suivre."
 ---
 
 # Veille SCPI (générique, multi-SCPI)
